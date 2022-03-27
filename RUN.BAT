@@ -1,3 +1,3 @@
-set dir=$1
+set dir=%1%
 
-.\dir\*.EXE
+.\%dir%\prog.exe
